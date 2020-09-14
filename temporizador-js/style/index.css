@@ -1,0 +1,26 @@
+body{
+    background-color:#ADA5C5 !important;
+    font-family: 'Montserrat Alternates', sans-serif !important;
+
+
+}
+.container{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.tiempo{
+    display: none;
+}
+.tiempocambio{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    margin-left: 240px;
+    max-width: 600px;
+}
+.tiempocambio div{
+    
+}
